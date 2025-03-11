@@ -43,6 +43,12 @@ Welcome to my GitHub! Here you’ll find my projects, open-source contributions,
 
 
 
+### 💭 Random Dev Quote  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
+
+
 
 
 

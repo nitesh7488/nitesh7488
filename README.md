@@ -43,8 +43,28 @@ Welcome to my GitHub! Here you’ll find my projects, open-source contributions,
 
 
 
+
+
+
 ### 💭 Random Dev Quote  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
+
+
+
+
+
+
+### 🏆 GitHub Trophies  
+![Trophies](https://github-profile-trophy.vercel.app/?username=nitesh7488&theme=onedark)
+
+
+
+
+
+### 🔥 Recent GitHub Contributions  
+[![Nitesh's GitHub Streak](https://streak-stats.demolab.com?user=nitesh7488&theme=tokyonight)](https://git.io/streak-stats)
 
 
 

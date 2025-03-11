@@ -62,7 +62,7 @@ Welcome to my GitHub! Here you’ll find my projects, open-source contributions,
 
 
 ### 🔥 Recent GitHub Contributions  
-[![Nitesh's GitHub Streak](https://streak-stats.demolab.com?user=nitesh7488&theme=tokyonight)](https://git.io/streak-stats)
+[![Nitesh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nitesh7488&theme=tokyonight)](https://git.io/streak-stats)
 
 
 

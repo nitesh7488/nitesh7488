@@ -28,8 +28,9 @@ Welcome to my GitHub! Here you’ll find my projects, open-source contributions,
 
 ---
 
-## 💹 GitHub Activity Graph  
-![Nitesh's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nitesh7488&theme=react-dark)  
+## 💹 GitHub Activity Graph 
+![Nitesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nitesh7488&theme=react-dark)
+  
 
 ---
 

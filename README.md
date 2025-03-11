@@ -24,7 +24,7 @@ Welcome to my GitHub! Here you’ll find my projects, open-source contributions,
 
 ## 📫 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitesh7488/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://niteshport.netlify.app/)  
 
 ---
 

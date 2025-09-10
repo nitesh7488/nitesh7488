@@ -68,7 +68,7 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 
 ---
 
-## 😄 Just for Fun
+## Enjoying in devoloping website ✌️✌️✌️✌️
 
 ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
